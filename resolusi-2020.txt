@@ -1,4 +1,11 @@
 RzD resolusi
-- Lulus kuliah tahun ini
-- Konsisten belajar programming
-- Membuat website sendiri
+memahami dasar pemograman
+  -git version control
+  -basic terminal usage
+  - data structures and algorithms
+  - github
+  - licenses
+  - semantic versioning
+  - HTTP/HTTPS and APIs
+  - Design Patterns
+  - character encoding
